@@ -1,16 +1,31 @@
-## Hi there 👋
+### walfvie
 
-<!--
-**walfvie/walfvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+quiet. opinionated when it counts.  
+ET · usually heads-down
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**currently building**
+
+- 🎬 &nbsp;movie viewing experience
+- 🧠 &nbsp;family memory vault
+- 💨 &nbsp;game driven by wind data
+- 🤖 &nbsp;personal AI agent layer — knowledge graphs, decisions log
+- 🔍 &nbsp;OSINT tooling
+
+---
+
+**stack**
+
+`SwiftUI` &nbsp;`Python` &nbsp;`TypeScript` &nbsp;`Three.js` &nbsp;`Go`
+
+---
+
+<a href="https://github.com/walfvie">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=walfvie&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&icon_color=58a6ff&text_color=8b949e" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walfvie&layout=compact&theme=transparent&hide_border=true&text_color=8b949e&langs_count=5" />
+</a>
+
+---
+
+<sub>I'm not a miracle worker. I'm a janitor.</sub>
